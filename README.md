@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/ishantpathak01/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -49,4 +51,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
