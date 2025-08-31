@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishantpathak01/leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0137-single-number-ii](https://github.com/ishantpathak01/leetcode/tree/master/0137-single-number-ii) |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
