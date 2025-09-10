@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishantpathak01/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ishantpathak01/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
+| [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
 |  |
