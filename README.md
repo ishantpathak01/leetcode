@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishantpathak01/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/ishantpathak01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
+| [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
