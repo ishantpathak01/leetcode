@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishantpathak01/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ishantpathak01/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ishantpathak01/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
