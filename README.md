@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ishantpathak01/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishantpathak01/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -120,20 +122,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
+| [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
