@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ishantpathak01/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/ishantpathak01/leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
@@ -208,5 +209,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 <!---LeetCode Topics End-->
