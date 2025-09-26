@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
+| [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishantpathak01/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Binary Search
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ishantpathak01/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishantpathak01/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ishantpathak01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
