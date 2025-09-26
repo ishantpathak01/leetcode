@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ishantpathak01/leetcode/tree/master/0029-divide-two-integers) |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/ishantpathak01/leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ishantpathak01/leetcode/tree/master/0137-single-number-ii) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
