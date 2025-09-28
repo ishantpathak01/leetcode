@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
+| [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ishantpathak01/leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ishantpathak01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
+| [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0134-gas-station](https://github.com/ishantpathak01/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 ## Stack
 |  |
 | ------- |
