@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/2350-find-closest-number-to-zero) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -223,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/ishantpathak01/leetcode/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
