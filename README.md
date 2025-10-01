@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ishantpathak01/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
+| [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Bit Manipulation
 |  |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ishantpathak01/leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
+| [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 ## Geometry
 |  |
 | ------- |
