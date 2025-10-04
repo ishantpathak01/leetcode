@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ishantpathak01/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
+| [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## Quickselect
 |  |
