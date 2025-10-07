@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/ishantpathak01/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
+| [0041-first-missing-positive](https://github.com/ishantpathak01/leetcode/tree/master/0041-first-missing-positive) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishantpathak01/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/ishantpathak01/leetcode/tree/master/0120-triangle) |
 | [0134-gas-station](https://github.com/ishantpathak01/leetcode/tree/master/0134-gas-station) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ishantpathak01/leetcode/tree/master/0001-two-sum) |
+| [0041-first-missing-positive](https://github.com/ishantpathak01/leetcode/tree/master/0041-first-missing-positive) |
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
