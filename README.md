@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/ishantpathak01/leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ishantpathak01/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2544-minimum-addition-to-make-integer-beautiful](https://github.com/ishantpathak01/leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 ## Stack
 |  |
