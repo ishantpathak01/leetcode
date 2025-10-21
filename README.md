@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ishantpathak01/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/ishantpathak01/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 | [4011-smallest-absent-positive-greater-than-average](https://github.com/ishantpathak01/leetcode/tree/master/4011-smallest-absent-positive-greater-than-average) |
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
