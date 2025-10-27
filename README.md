@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ishantpathak01/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ishantpathak01/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishantpathak01/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
+| [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bucket Sort
 |  |
@@ -267,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
