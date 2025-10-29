@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishantpathak01/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishantpathak01/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ishantpathak01/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ishantpathak01/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/ishantpathak01/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
