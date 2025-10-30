@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2350-find-closest-number-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/2350-find-closest-number-to-zero) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
