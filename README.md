@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
+| [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ishantpathak01/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
