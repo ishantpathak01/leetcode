@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
 | [0540-single-element-in-a-sorted-array](https://github.com/ishantpathak01/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/ishantpathak01/leetcode/tree/master/0645-set-mismatch) |
 | [0792-binary-search](https://github.com/ishantpathak01/leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0643-maximum-average-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Number Theory
