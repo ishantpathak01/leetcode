@@ -2,7 +2,7 @@ class Solution {
 public:
     int duplicateNumbersXOR(vector<int>& nums) {
         vector<int>result;
-        map<int ,int>freq;
+        map<int,int>freq;
         for(int i=0;i<nums.size();i++){
             freq[nums[i]]++;
         }
