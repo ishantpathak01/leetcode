@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ishantpathak01/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1580-shuffle-the-array](https://github.com/ishantpathak01/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
