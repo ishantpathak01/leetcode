@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishantpathak01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1560-number-of-students-doing-homework-at-a-given-time](https://github.com/ishantpathak01/leetcode/tree/master/1560-number-of-students-doing-homework-at-a-given-time) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1580-shuffle-the-array](https://github.com/ishantpathak01/leetcode/tree/master/1580-shuffle-the-array) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishantpathak01/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/ishantpathak01/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 ## Monotonic Stack
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
+| [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/ishantpathak01/leetcode/tree/master/1642-water-bottles) |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
