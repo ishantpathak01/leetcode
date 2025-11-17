@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ishantpathak01/leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
+| [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 | [3979-partition-array-into-k-distinct-groups](https://github.com/ishantpathak01/leetcode/tree/master/3979-partition-array-into-k-distinct-groups) |
 | [3994-find-the-least-frequent-digit](https://github.com/ishantpathak01/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
@@ -362,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ishantpathak01/leetcode/tree/master/0198-house-robber) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Sliding Window
 |  |
 | ------- |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ishantpathak01/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Stack
 |  |
@@ -412,12 +415,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/ishantpathak01/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
+| [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishantpathak01/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
+| [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Simulation
 |  |
 | ------- |
