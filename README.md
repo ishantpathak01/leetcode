@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ishantpathak01/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
+| [0551-student-attendance-record-i](https://github.com/ishantpathak01/leetcode/tree/master/0551-student-attendance-record-i) |
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishantpathak01/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ishantpathak01/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
