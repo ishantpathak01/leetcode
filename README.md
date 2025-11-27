@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/ishantpathak01/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishantpathak01/leetcode/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/ishantpathak01/leetcode/tree/master/0041-first-missing-positive) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/ishantpathak01/leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ishantpathak01/leetcode/tree/master/0038-count-and-say) |
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
@@ -483,4 +485,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
