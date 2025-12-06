@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ishantpathak01/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishantpathak01/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
+| [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ishantpathak01/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ishantpathak01/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
