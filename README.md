@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1642-water-bottles](https://github.com/ishantpathak01/leetcode/tree/master/1642-water-bottles) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ishantpathak01/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
+| [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2238-a-number-after-a-double-reversal](https://github.com/ishantpathak01/leetcode/tree/master/2238-a-number-after-a-double-reversal) |
 | [2288-count-operations-to-obtain-zero](https://github.com/ishantpathak01/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
+| [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ishantpathak01/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
