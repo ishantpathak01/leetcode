@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2485-find-the-pivot-integer](https://github.com/ishantpathak01/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/ishantpathak01/leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
+| [2579-count-total-number-of-colored-cells](https://github.com/ishantpathak01/leetcode/tree/master/2579-count-total-number-of-colored-cells) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/ishantpathak01/leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
 | [2619-categorize-box-according-to-criteria](https://github.com/ishantpathak01/leetcode/tree/master/2619-categorize-box-according-to-criteria) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/ishantpathak01/leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
