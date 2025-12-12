@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishantpathak01/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ishantpathak01/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ishantpathak01/leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3408-count-the-number-of-special-characters-i](https://github.com/ishantpathak01/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ishantpathak01/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2664-maximize-greatness-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bucket Sort
