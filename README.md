@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ishantpathak01/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishantpathak01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishantpathak01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ishantpathak01/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
