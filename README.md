@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/ishantpathak01/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ishantpathak01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ishantpathak01/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
