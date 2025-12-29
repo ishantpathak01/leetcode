@@ -9,7 +9,6 @@ public:
                 sum += current;
             }
         }
-        
         return sum;
     }
 };
