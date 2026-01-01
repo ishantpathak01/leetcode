@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ishantpathak01/leetcode/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/ishantpathak01/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/ishantpathak01/leetcode/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/ishantpathak01/leetcode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/ishantpathak01/leetcode/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/ishantpathak01/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0041-first-missing-positive](https://github.com/ishantpathak01/leetcode/tree/master/0041-first-missing-positive) |
 | [0056-merge-intervals](https://github.com/ishantpathak01/leetcode/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/ishantpathak01/leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ishantpathak01/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/ishantpathak01/leetcode/tree/master/0120-triangle) |
