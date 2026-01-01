@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ishantpathak01/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/ishantpathak01/leetcode/tree/master/1293-three-consecutive-odds) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ishantpathak01/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ishantpathak01/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
