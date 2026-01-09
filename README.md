@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ishantpathak01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ishantpathak01/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishantpathak01/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
