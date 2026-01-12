@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1390-four-divisors](https://github.com/ishantpathak01/leetcode/tree/master/1390-four-divisors) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ishantpathak01/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1293-three-consecutive-odds](https://github.com/ishantpathak01/leetcode/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1319-unique-number-of-occurrences) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ishantpathak01/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Counting Sort
 |  |
