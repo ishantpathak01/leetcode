@@ -2,19 +2,24 @@ class Solution {
 public:
     int countDistinctIntegers(vector<int>& nums) {
         vector<int> value = nums;
-        set<int>st;
-        for (int i= 0; i < nums.size(); i++) {
+        map<int,int> freq;
+        int count = 0;
+        for (int i = 0; i < nums.size(); i++) {
+            int x = nums[i]; 
             int rev = 0;
-            while (nums[i] > 0) {
-                int last = nums[i] % 10;
+            while (x > 0) {
+                int last = x % 10;
                 rev = last + rev * 10;
-                nums[i] /= 10;
+                x /= 10;
             }
             value.push_back(rev);
         }
-        for(int i=0;i<value.size();i++){
-            st.insert(value[i]);
+        for (int i = 0; i < value.size(); i++) {
+            freq[value[i]]++;
         }
-        return st.size();
+        for (auto it : freq) {
+            count++;
+        }
+        return count;
     }
 };
