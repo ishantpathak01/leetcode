@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2288-count-operations-to-obtain-zero](https://github.com/ishantpathak01/leetcode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ishantpathak01/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/ishantpathak01/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ishantpathak01/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishantpathak01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
