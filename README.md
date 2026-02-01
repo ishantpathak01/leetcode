@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2974-minimum-number-game](https://github.com/ishantpathak01/leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishantpathak01/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ishantpathak01/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ishantpathak01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2836-neither-minimum-nor-maximum](https://github.com/ishantpathak01/leetcode/tree/master/2836-neither-minimum-nor-maximum) |
 | [2974-minimum-number-game](https://github.com/ishantpathak01/leetcode/tree/master/2974-minimum-number-game) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/ishantpathak01/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/ishantpathak01/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ishantpathak01/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ishantpathak01/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ishantpathak01/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
