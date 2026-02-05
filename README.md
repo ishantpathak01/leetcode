@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/ishantpathak01/leetcode/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/ishantpathak01/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ishantpathak01/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/ishantpathak01/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
