@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2176-count-equal-and-divisible-pairs-in-an-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ishantpathak01/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/ishantpathak01/leetcode/tree/master/2578-split-with-minimum-sum) |
@@ -461,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ishantpathak01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ishantpathak01/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
