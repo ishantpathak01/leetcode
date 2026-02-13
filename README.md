@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ishantpathak01/leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/ishantpathak01/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/ishantpathak01/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
@@ -446,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ishantpathak01/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/ishantpathak01/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ishantpathak01/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ishantpathak01/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0944-delete-columns-to-make-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -616,6 +618,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ishantpathak01/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/ishantpathak01/leetcode/tree/master/1642-water-bottles) |
