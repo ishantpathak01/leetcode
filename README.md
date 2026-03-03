@@ -487,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ishantpathak01/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ishantpathak01/leetcode/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3340-check-balanced-string](https://github.com/ishantpathak01/leetcode/tree/master/3340-check-balanced-string) |
 | [3379-score-of-a-string](https://github.com/ishantpathak01/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ishantpathak01/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
@@ -649,6 +650,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ishantpathak01/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/ishantpathak01/leetcode/tree/master/2974-minimum-number-game) |
+| [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ishantpathak01/leetcode/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
 | [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ishantpathak01/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/ishantpathak01/leetcode/tree/master/3379-transformed-array) |
