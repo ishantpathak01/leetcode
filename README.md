@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0007-reverse-integer](https://github.com/ishantpathak01/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ishantpathak01/leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/ishantpathak01/leetcode/tree/master/0013-roman-to-integer) |
@@ -75,8 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3994-find-the-least-frequent-digit](https://github.com/ishantpathak01/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ishantpathak01/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0029-divide-two-integers](https://github.com/ishantpathak01/leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ishantpathak01/leetcode/tree/master/0137-single-number-ii) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
@@ -95,14 +95,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3998-minimum-operations-to-equalize-array](https://github.com/ishantpathak01/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0050-powx-n](https://github.com/ishantpathak01/leetcode/tree/master/0050-powx-n) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ishantpathak01/leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/ishantpathak01/leetcode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
@@ -263,8 +263,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4012-earliest-time-to-finish-one-task](https://github.com/ishantpathak01/leetcode/tree/master/4012-earliest-time-to-finish-one-task) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/ishantpathak01/leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/ishantpathak01/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/ishantpathak01/leetcode/tree/master/0041-first-missing-positive) |
@@ -325,8 +325,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ishantpathak01/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
@@ -349,8 +349,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ishantpathak01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ishantpathak01/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0069-sqrtx](https://github.com/ishantpathak01/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ishantpathak01/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -372,8 +372,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ishantpathak01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/ishantpathak01/leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/ishantpathak01/leetcode/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/ishantpathak01/leetcode/tree/master/0056-merge-intervals) |
@@ -417,22 +417,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
 ## Radix Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0164-maximum-gap](https://github.com/ishantpathak01/leetcode/tree/master/0164-maximum-gap) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/ishantpathak01/leetcode/tree/master/0506-relative-ranks) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
@@ -440,13 +440,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2974-minimum-number-game](https://github.com/ishantpathak01/leetcode/tree/master/2974-minimum-number-game) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ishantpathak01/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/ishantpathak01/leetcode/tree/master/0038-count-and-say) |
@@ -471,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/ishantpathak01/leetcode/tree/master/1678-goal-parser-interpretation) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ishantpathak01/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/ishantpathak01/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
+| [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1758-minimum-changes-to-make-alternating-binary-string/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ishantpathak01/leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishantpathak01/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ishantpathak01/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -501,8 +502,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishantpathak01/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -531,8 +532,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
 | [4068-sum-of-elements-with-frequency-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/4068-sum-of-elements-with-frequency-divisible-by-k) |
 ## Enumeration
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -544,8 +545,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [4055-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/4055-longest-balanced-substring-i) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0120-triangle](https://github.com/ishantpathak01/leetcode/tree/master/0120-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishantpathak01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0152-maximum-product-subarray) |
@@ -555,8 +556,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishantpathak01/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -567,8 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/ishantpathak01/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3206-alternating-groups-i](https://github.com/ishantpathak01/leetcode/tree/master/3206-alternating-groups-i) |
 ## Number Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
 | [1585-the-kth-factor-of-n](https://github.com/ishantpathak01/leetcode/tree/master/1585-the-kth-factor-of-n) |
@@ -577,8 +578,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/ishantpathak01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -590,8 +591,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishantpathak01/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ishantpathak01/leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishantpathak01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/ishantpathak01/leetcode/tree/master/0134-gas-station) |
@@ -616,8 +617,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 | [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/ishantpathak01/leetcode/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishantpathak01/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
@@ -629,15 +630,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3860-resulting-string-after-adjacent-removals](https://github.com/ishantpathak01/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishantpathak01/leetcode/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
 | [1389-create-target-array-in-the-given-order](https://github.com/ishantpathak01/leetcode/tree/master/1389-create-target-array-in-the-given-order) |
@@ -662,45 +663,45 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ishantpathak01/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Geometry
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ishantpathak01/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 ## Counting Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0274-h-index](https://github.com/ishantpathak01/leetcode/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishantpathak01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 ## Brainteaser
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3998-minimum-operations-to-equalize-array](https://github.com/ishantpathak01/leetcode/tree/master/3998-minimum-operations-to-equalize-array) |
 ## Combinatorics
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishantpathak01/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/ishantpathak01/leetcode/tree/master/0014-longest-common-prefix) |
 ## Rolling Hash
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Hash Function
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 ## Segment Tree
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
