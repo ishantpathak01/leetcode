@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/smallest-pair-with-different-frequencies">3852. Smallest Pair With Different Frequencies</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/smallest-pair-with-different-frequencies">4231. Smallest Pair With Different Frequencies</a></h2><h3>Easy</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>Consider all pairs of <strong>distinct</strong> values <code>x</code> and <code>y</code> from <code>nums</code> such that:</p>
 
