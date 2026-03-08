@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ishantpathak01/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
+| [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ishantpathak01/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ishantpathak01/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -478,6 +480,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ishantpathak01/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ishantpathak01/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -704,4 +707,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 <!---LeetCode Topics End-->
