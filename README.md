@@ -295,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ishantpathak01/leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ishantpathak01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ishantpathak01/leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1704-determine-if-string-halves-are-alike](https://github.com/ishantpathak01/leetcode/tree/main/1704-determine-if-string-halves-are-alike/) | Easy |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/ishantpathak01/leetcode/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/ishantpathak01/leetcode/tree/main/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii/) | Medium |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
