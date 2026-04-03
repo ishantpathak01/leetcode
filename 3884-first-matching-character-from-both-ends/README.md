@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/first-matching-character-from-both-ends">3884. First Matching Character From Both Ends</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> consisting of lowercase English letters.</p>
+<h2><a href="https://leetcode.com/problems/first-matching-character-from-both-ends">4264. First Matching Character From Both Ends</a></h2><h3>Easy</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> consisting of lowercase English letters.</p>
 
 <p>Return the smallest index <code>i</code> such that <code>s[i] == s[n - i - 1]</code>.</p>
 
