@@ -255,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/ishantpathak01/leetcode/tree/master/3637-trionic-array-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ishantpathak01/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3832-minimum-cost-to-reach-every-position](https://github.com/ishantpathak01/leetcode/tree/master/3832-minimum-cost-to-reach-every-position) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3713-longest-balanced-substring-i](https://github.com/ishantpathak01/leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
+| [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ishantpathak01/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ishantpathak01/leetcode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
