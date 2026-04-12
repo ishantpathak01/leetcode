@@ -1,16 +1,14 @@
 class Solution {
 public:
     int countDigitOccurrences(vector<int>& nums, int digit) {
-        vector<int>result= nums;
-        int count = 0;
-        for (int i=0;i<nums.size();i++) {
-            if (nums[i] == 0 && digit == 0){
-                count++;
-            }
-            while (nums[i] > 0) {
-                if (nums[i] % 10 == digit){
+        int rem = 0;
+        int count  = 0;
+        for(int i=0;i<nums.size();i++){
+            while(nums[i] > 0)
+            {
+                rem = nums[i]%10;
+                if(rem == digit)
                     count++;
-                }
                 nums[i] /= 10;
             }
         }
