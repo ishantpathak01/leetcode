@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ishantpathak01/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishantpathak01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -510,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ishantpathak01/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ishantpathak01/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ishantpathak01/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ishantpathak01/leetcode/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
