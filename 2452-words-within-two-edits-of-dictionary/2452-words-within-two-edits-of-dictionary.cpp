@@ -1,7 +1,6 @@
 class Solution {
 public:
-    vector<string> twoEditWords(vector<string>& queries,
-                                vector<string>& dictionary) {
+    vector<string> twoEditWords(vector<string>& queries,vector<string>& dictionary) {
         vector<string> result;
         for (int i = 0; i < queries.size(); i++) {
             for (int j = 0; j < dictionary.size(); j++) {
