@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ishantpathak01/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ishantpathak01/leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/ishantpathak01/leetcode/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishantpathak01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ishantpathak01/leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ishantpathak01/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
 | [2578-split-with-minimum-sum](https://github.com/ishantpathak01/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2664-maximize-greatness-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2664-maximize-greatness-of-an-array) |
