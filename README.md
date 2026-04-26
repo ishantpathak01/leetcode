@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ishantpathak01/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/ishantpathak01/leetcode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
 | [2485-find-the-pivot-integer](https://github.com/ishantpathak01/leetcode/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ishantpathak01/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ishantpathak01/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
 | [2502-sort-the-people](https://github.com/ishantpathak01/leetcode/tree/master/2502-sort-the-people) |
@@ -636,6 +638,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1585-the-kth-factor-of-n](https://github.com/ishantpathak01/leetcode/tree/master/1585-the-kth-factor-of-n) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ishantpathak01/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
+| [2470-number-of-subarrays-with-lcm-equal-to-k](https://github.com/ishantpathak01/leetcode/tree/master/2470-number-of-subarrays-with-lcm-equal-to-k) |
 | [2491-smallest-even-multiple](https://github.com/ishantpathak01/leetcode/tree/master/2491-smallest-even-multiple) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
