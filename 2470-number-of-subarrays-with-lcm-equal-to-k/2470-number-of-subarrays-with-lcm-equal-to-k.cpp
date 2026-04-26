@@ -5,7 +5,9 @@ public:
         for(int i=0;i<nums.size();i++){
             long long LCM=1;
             for(int j=i;j<nums.size();j++){
-                if(k % nums[j] != 0) break;
+                if(LCM > k){
+                    break;
+                }
                 LCM=lcm(LCM,(long long)nums[j]);
                 if(LCM==k){
                     count++;
