@@ -1,7 +1,6 @@
 class Solution {
 public:
     int sumOfPrimesInRange(int n) {
-        int val = n;
         int r = 0;
         int temp = n;
         while (temp > 0) {
@@ -9,9 +8,8 @@ public:
             r = r * 10 + last;
             temp /= 10;
         }
-
-        int start = min(val, r);
-        int end = max(val, r);
+        int start = min(n, r);
+        int end = max(n, r);
         int sum = 0;
         for (int i = start; i <= end; i++) {
             int count = 0;
@@ -24,7 +22,6 @@ public:
                 sum += i;
             }
         }
-
         return sum;
     }
 };
