@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ishantpathak01/leetcode/tree/master/0645-set-mismatch) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/ishantpathak01/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
+| [0766-toeplitz-matrix](https://github.com/ishantpathak01/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0792-binary-search](https://github.com/ishantpathak01/leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ishantpathak01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -790,6 +791,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/ishantpathak01/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishantpathak01/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Trie
 | Problem Name | Difficulty |
