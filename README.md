@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1904-second-largest-digit-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/1904-second-largest-digit-in-a-string) |
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/ishantpathak01/leetcode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/ishantpathak01/leetcode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/ishantpathak01/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ishantpathak01/leetcode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
@@ -750,6 +751,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1642-water-bottles](https://github.com/ishantpathak01/leetcode/tree/master/1642-water-bottles) |
 | [1688-count-of-matches-in-tournament](https://github.com/ishantpathak01/leetcode/tree/master/1688-count-of-matches-in-tournament) |
+| [1945-sum-of-digits-of-string-after-convert](https://github.com/ishantpathak01/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ishantpathak01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
