@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/ishantpathak01/leetcode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2540-minimum-common-value](https://github.com/ishantpathak01/leetcode/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/ishantpathak01/leetcode/tree/main/2553-separate-the-digits-in-an-array/) | Easy |
+| [2574-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ishantpathak01/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
@@ -682,6 +683,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1991-find-the-middle-index-in-array](https://github.com/ishantpathak01/leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ishantpathak01/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/ishantpathak01/leetcode/tree/master/2485-find-the-pivot-integer) |
+| [2574-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ishantpathak01/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
