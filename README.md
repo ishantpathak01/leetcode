@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ishantpathak01/leetcode/tree/main/1769-minimum-number-of-operations-to-move-all-balls-to-each-box/) | Medium |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishantpathak01/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ishantpathak01/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ishantpathak01/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ishantpathak01/leetcode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
@@ -468,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishantpathak01/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ishantpathak01/leetcode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ishantpathak01/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -726,6 +728,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1323-maximum-69-number](https://github.com/ishantpathak01/leetcode/tree/master/1323-maximum-69-number) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ishantpathak01/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishantpathak01/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ishantpathak01/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ishantpathak01/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ishantpathak01/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0274-h-index](https://github.com/ishantpathak01/leetcode/tree/master/0274-h-index) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishantpathak01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1833-maximum-ice-cream-bars](https://github.com/ishantpathak01/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
