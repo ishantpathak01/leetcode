@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/distribute-candies-among-children-i">2928. Distribute Candies Among Children I</a></h2><h3>Easy</h3><hr><p>You are given two positive integers <code>n</code> and <code>limit</code>.</p>
+<h2><a href="https://leetcode.com/problems/distribute-candies-among-children-i">3199. Distribute Candies Among Children I</a></h2><h3>Easy</h3><hr><p>You are given two positive integers <code>n</code> and <code>limit</code>.</p>
 
 <p>Return <em>the <strong>total number</strong> of ways to distribute </em><code>n</code> <em>candies among </em><code>3</code><em> children such that no child gets more than </em><code>limit</code><em> candies.</em></p>
 
