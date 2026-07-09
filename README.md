@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishantpathak01/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ishantpathak01/leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1127-last-stone-weight](https://github.com/ishantpathak01/leetcode/tree/master/1127-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/ishantpathak01/leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -757,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/ishantpathak01/leetcode/tree/main/0135-candy/) | Hard |
 | [0179-largest-number](https://github.com/ishantpathak01/leetcode/tree/master/0179-largest-number) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
+| [1007-minimum-domino-rotations-for-equal-row](https://github.com/ishantpathak01/leetcode/tree/main/1007-minimum-domino-rotations-for-equal-row/) | Medium |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishantpathak01/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
