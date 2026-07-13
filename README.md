@@ -677,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
+| [1291-sequential-digits](https://github.com/ishantpathak01/leetcode/tree/main/1291-sequential-digits/) | Medium |
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ishantpathak01/leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ishantpathak01/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
