@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ishantpathak01/leetcode/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/ishantpathak01/leetcode/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
+| [3536-maximum-product-of-two-digits](https://github.com/ishantpathak01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ishantpathak01/leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3626-smallest-divisible-digit-product-i](https://github.com/ishantpathak01/leetcode/tree/master/3626-smallest-divisible-digit-product-i) |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ishantpathak01/leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3075-maximize-happiness-of-selected-children](https://github.com/ishantpathak01/leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/ishantpathak01/leetcode/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/ishantpathak01/leetcode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3536-maximum-product-of-two-digits](https://github.com/ishantpathak01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ishantpathak01/leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishantpathak01/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
