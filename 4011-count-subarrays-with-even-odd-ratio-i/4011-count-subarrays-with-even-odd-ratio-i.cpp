@@ -4,14 +4,14 @@ public:
         int ans = 0;
         int n = nums.size();
         for (int i = 0; i < n; i++) {
-            int even = 0;
-            int odd = 0;
+            int y = 0;
+            int x = 0;
             for (int j = i; j < n; j++) {
                 if (nums[j] % 2 == 0)
-                    even++;
+                    y++;
                 else
-                    odd++;
-                if (odd > 0 && 1LL * b * even <= 1LL * a * odd)
+                    x++;
+                if (x > 0 && 1LL * b * y <= 1LL * a * x)
                     ans++;
             }
         }
