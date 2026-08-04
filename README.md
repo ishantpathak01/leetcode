@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/ishantpathak01/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ishantpathak01/leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/ishantpathak01/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/ishantpathak01/leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/ishantpathak01/leetcode/tree/master/0367-valid-perfect-square) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/ishantpathak01/leetcode/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/ishantpathak01/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/ishantpathak01/leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/ishantpathak01/leetcode/tree/main/0260-single-number-iii/) | Medium |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/ishantpathak01/leetcode/tree/master/0645-set-mismatch) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/ishantpathak01/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/ishantpathak01/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ishantpathak01/leetcode/tree/master/0342-power-of-four) |
 | [3799-unique-3-digit-even-numbers](https://github.com/ishantpathak01/leetcode/tree/master/3799-unique-3-digit-even-numbers) |
 ## Array
