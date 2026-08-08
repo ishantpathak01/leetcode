@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/ishantpathak01/leetcode/tree/master/1688-count-of-matches-in-tournament) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/ishantpathak01/leetcode/tree/main/1716-calculate-money-in-leetcode-bank/) | Easy |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/ishantpathak01/leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ishantpathak01/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ishantpathak01/leetcode/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/ishantpathak01/leetcode/tree/master/0693-binary-number-with-alternating-bits) |
 | [1444-number-of-steps-to-reduce-a-number-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1444-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/ishantpathak01/leetcode/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/ishantpathak01/leetcode/tree/main/1846-maximum-element-after-decreasing-and-rearranging/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/ishantpathak01/leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ishantpathak01/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1887-reduction-operations-to-make-the-array-elements-equal](https://github.com/ishantpathak01/leetcode/tree/main/1887-reduction-operations-to-make-the-array-elements-equal/) | Medium |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/ishantpathak01/leetcode/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
@@ -709,6 +712,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [1291-sequential-digits](https://github.com/ishantpathak01/leetcode/tree/main/1291-sequential-digits/) | Medium |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/ishantpathak01/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ishantpathak01/leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ishantpathak01/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -910,6 +914,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2928-distribute-candies-among-children-i](https://github.com/ishantpathak01/leetcode/tree/main/2928-distribute-candies-among-children-i/) | Easy |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Matrix
@@ -942,6 +947,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/ishantpathak01/leetcode/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/ishantpathak01/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Memoization
 |  |
