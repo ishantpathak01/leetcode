@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ishantpathak01/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-watering-plants](https://github.com/ishantpathak01/leetcode/tree/main/2079-watering-plants/) | Medium |
+| [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/ishantpathak01/leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2113-find-the-kth-largest-integer-in-the-array](https://github.com/ishantpathak01/leetcode/tree/master/2113-find-the-kth-largest-integer-in-the-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ishantpathak01/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ishantpathak01/leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishantpathak01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ishantpathak01/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
@@ -876,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
 | [2079-watering-plants](https://github.com/ishantpathak01/leetcode/tree/main/2079-watering-plants/) | Medium |
+| [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ishantpathak01/leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ishantpathak01/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishantpathak01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
