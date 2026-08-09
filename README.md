@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ishantpathak01/leetcode/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2308-divide-array-into-equal-pairs](https://github.com/ishantpathak01/leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2312-most-frequent-number-following-key-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2312-most-frequent-number-following-key-in-an-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ishantpathak01/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/ishantpathak01/leetcode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ishantpathak01/leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ishantpathak01/leetcode/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ishantpathak01/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/ishantpathak01/leetcode/tree/main/2491-divide-players-into-teams-of-equal-skill/) | Medium |
@@ -817,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ishantpathak01/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2126-destroying-asteroids](https://github.com/ishantpathak01/leetcode/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/ishantpathak01/leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ishantpathak01/leetcode/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ishantpathak01/leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/ishantpathak01/leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
