@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/ishantpathak01/leetcode/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/ishantpathak01/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ishantpathak01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2974-minimum-number-game](https://github.com/ishantpathak01/leetcode/tree/master/2974-minimum-number-game) |
 | [2980-check-if-bitwise-or-has-trailing-zeros](https://github.com/ishantpathak01/leetcode/tree/master/2980-check-if-bitwise-or-has-trailing-zeros) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ishantpathak01/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ishantpathak01/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ishantpathak01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/ishantpathak01/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3046-split-the-array](https://github.com/ishantpathak01/leetcode/tree/master/3046-split-the-array) |
 | [3094-minimum-number-of-operations-to-make-array-empty](https://github.com/ishantpathak01/leetcode/tree/master/3094-minimum-number-of-operations-to-make-array-empty) |
@@ -770,6 +772,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ishantpathak01/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/ishantpathak01/leetcode/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/ishantpathak01/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3206-alternating-groups-i](https://github.com/ishantpathak01/leetcode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ishantpathak01/leetcode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
 ## Number Theory
