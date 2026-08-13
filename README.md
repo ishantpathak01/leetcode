@@ -407,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2405-optimal-partition-of-string](https://github.com/ishantpathak01/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2465-number-of-distinct-averages](https://github.com/ishantpathak01/leetcode/tree/master/2465-number-of-distinct-averages) |
 | [2480-find-subarrays-with-equal-sum](https://github.com/ishantpathak01/leetcode/tree/master/2480-find-subarrays-with-equal-sum) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/ishantpathak01/leetcode/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2351-first-letter-to-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
+| [2405-optimal-partition-of-string](https://github.com/ishantpathak01/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ishantpathak01/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ishantpathak01/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -837,6 +839,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/ishantpathak01/leetcode/tree/main/2294-partition-array-such-that-maximum-difference-is-k/) | Medium |
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ishantpathak01/leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/ishantpathak01/leetcode/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2405-optimal-partition-of-string](https://github.com/ishantpathak01/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2544-minimum-addition-to-make-integer-beautiful](https://github.com/ishantpathak01/leetcode/tree/master/2544-minimum-addition-to-make-integer-beautiful) |
 | [2578-split-with-minimum-sum](https://github.com/ishantpathak01/leetcode/tree/master/2578-split-with-minimum-sum) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/ishantpathak01/leetcode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
