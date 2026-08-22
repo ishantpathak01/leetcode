@@ -4,8 +4,7 @@ public:
         int n = s.size();
         int maxLen = 0;
         int start = 0;
-
-        auto isPalin = [&](int i, int j) {
+        auto checkpalindrome= [&](int i, int j) {
             while (i < j) {
                 if (s[i] != s[j]) {
                     return false;
@@ -15,13 +14,10 @@ public:
             }
             return true;
         };
-
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
-
-                if (isPalin(i, j)) {
+                if (checkpalindrome(i, j)) {
                     int len = j - i + 1;
-
                     if (len > maxLen) {
                         maxLen = len;
                         start = i;
@@ -29,7 +25,6 @@ public:
                 }
             }
         }
-
         return s.substr(start, maxLen);
     }
 };
