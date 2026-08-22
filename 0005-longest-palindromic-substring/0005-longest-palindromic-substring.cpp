@@ -2,8 +2,8 @@ class Solution {
 public:
     string longestPalindrome(string s) {
         int n = s.size();
-        int maxLen = 0;
-        int start = 0;
+        int maxLength = 0;
+        int index = 0;
         auto checkpalindrome= [&](int i, int j) {
             while (i < j) {
                 if (s[i] != s[j]) {
@@ -17,14 +17,14 @@ public:
         for (int i = 0; i < n; i++) {
             for (int j = i; j < n; j++) {
                 if (checkpalindrome(i, j)) {
-                    int len = j - i + 1;
-                    if (len > maxLen) {
-                        maxLen = len;
-                        start = i;
+                    int length = j - i + 1;
+                    if (length > maxLength) {
+                        maxLength = length;
+                        index = i;
                     }
                 }
             }
         }
-        return s.substr(start, maxLen);
+        return s.substr(index, maxLength);
     }
 };
