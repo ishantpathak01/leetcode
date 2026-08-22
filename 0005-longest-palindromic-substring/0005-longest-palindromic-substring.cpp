@@ -11,18 +11,13 @@ public:
         }
         return true;
     }
-
     string longestPalindrome(string s) {
         int maxlength = 0;
         int index = 0;
-
         for (int i = 0; i < s.size(); i++) {
             for (int j = i; j < s.size(); j++) {
-
                 if (checkpalindrome(s, i, j)) {
-
                     int length = j - i + 1;
-
                     if (length > maxlength) {
                         maxlength = length;
                         index = i;
@@ -30,7 +25,6 @@ public:
                 }
             }
         }
-
         return s.substr(index, maxlength);
     }
 };
