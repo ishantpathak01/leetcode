@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/ishantpathak01/leetcode/tree/main/2029-stone-game-ix/) | Medium |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ishantpathak01/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/ishantpathak01/leetcode/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2079-watering-plants](https://github.com/ishantpathak01/leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
@@ -949,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1945-sum-of-digits-of-string-after-convert](https://github.com/ishantpathak01/leetcode/tree/master/1945-sum-of-digits-of-string-after-convert) |
 | [2048-build-array-from-permutation](https://github.com/ishantpathak01/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/ishantpathak01/leetcode/tree/master/2058-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/ishantpathak01/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2079-watering-plants](https://github.com/ishantpathak01/leetcode/tree/main/2079-watering-plants/) | Medium |
 | [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ishantpathak01/leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
@@ -1128,4 +1130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ishantpathak01/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Queue
+|  |
+| ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/ishantpathak01/leetcode/tree/master/2073-time-needed-to-buy-tickets) |
 <!---LeetCode Topics End-->
