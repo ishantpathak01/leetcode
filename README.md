@@ -663,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/ishantpathak01/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
+| [0520-detect-capital](https://github.com/ishantpathak01/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ishantpathak01/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ishantpathak01/leetcode/tree/master/0551-student-attendance-record-i) |
 | [0657-robot-return-to-origin](https://github.com/ishantpathak01/leetcode/tree/master/0657-robot-return-to-origin) |
