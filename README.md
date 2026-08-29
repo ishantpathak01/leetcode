@@ -1097,7 +1097,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ishantpathak01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ishantpathak01/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
-| [0725-split-linked-list-in-parts](https://github.com/ishantpathak01/leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0725-split-linked-list-in-parts](https://github.com/ishantpathak01/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/ishantpathak01/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
