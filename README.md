@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3783-mirror-distance-of-an-integer](https://github.com/ishantpathak01/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ishantpathak01/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ishantpathak01/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3994-find-the-least-frequent-digit](https://github.com/ishantpathak01/leetcode/tree/master/3994-find-the-least-frequent-digit) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/ishantpathak01/leetcode/tree/master/4051-remove-zeros-in-decimal-representation) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3838-weighted-word-mapping](https://github.com/ishantpathak01/leetcode/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ishantpathak01/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/ishantpathak01/leetcode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/ishantpathak01/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3914-check-if-any-element-has-prime-frequency](https://github.com/ishantpathak01/leetcode/tree/master/3914-check-if-any-element-has-prime-frequency) |
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
