@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2105-watering-plants-ii](https://github.com/ishantpathak01/leetcode/tree/main/2105-watering-plants-ii/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/ishantpathak01/leetcode/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/ishantpathak01/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ishantpathak01/leetcode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
@@ -939,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-build-an-array-with-stack-operations](https://github.com/ishantpathak01/leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishantpathak01/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2000-reverse-prefix-of-word](https://github.com/ishantpathak01/leetcode/tree/master/2000-reverse-prefix-of-word) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ishantpathak01/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [3860-resulting-string-after-adjacent-removals](https://github.com/ishantpathak01/leetcode/tree/master/3860-resulting-string-after-adjacent-removals) |
@@ -1115,6 +1117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1669-merge-in-between-linked-lists](https://github.com/ishantpathak01/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ishantpathak01/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
