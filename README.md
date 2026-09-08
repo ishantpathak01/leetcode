@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/ishantpathak01/leetcode/tree/master/1580-shuffle-the-array) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
+| [1652-defuse-the-bomb](https://github.com/ishantpathak01/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ishantpathak01/leetcode/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
@@ -842,6 +843,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ishantpathak01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishantpathak01/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ishantpathak01/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1652-defuse-the-bomb](https://github.com/ishantpathak01/leetcode/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/ishantpathak01/leetcode/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/ishantpathak01/leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ishantpathak01/leetcode/tree/master/2302-count-subarrays-with-score-less-than-k) |
