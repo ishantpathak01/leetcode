@@ -208,7 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0830-largest-triangle-area](https://github.com/ishantpathak01/leetcode/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/ishantpathak01/leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/ishantpathak01/leetcode/tree/master/0915-partition-array-into-disjoint-intervals) |
-| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0944-delete-columns-to-make-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishantpathak01/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
@@ -416,7 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/ishantpathak01/leetcode/tree/master/0645-set-mismatch) |
 | [0771-jewels-and-stones](https://github.com/ishantpathak01/leetcode/tree/master/0771-jewels-and-stones) |
-| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishantpathak01/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -845,7 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
-| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishantpathak01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ishantpathak01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishantpathak01/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -879,7 +879,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/ishantpathak01/leetcode/tree/master/0238-product-of-array-except-self) |
-| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/ishantpathak01/leetcode/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1603-running-sum-of-1d-array](https://github.com/ishantpathak01/leetcode/tree/master/1603-running-sum-of-1d-array) |
