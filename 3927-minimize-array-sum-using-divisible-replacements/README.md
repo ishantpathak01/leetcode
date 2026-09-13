@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements">4301. Minimize Array Sum Using Divisible Replacements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
+<h2><a href="https://leetcode.com/problems/minimize-array-sum-using-divisible-replacements">3927. Minimize Array Sum Using Divisible Replacements</a></h2><h3>Medium</h3><hr><p>You are given an integer array <code>nums</code>.</p>
 
 <p>You can perform the following operation any number of times:</p>
 
