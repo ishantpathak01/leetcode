@@ -6,7 +6,7 @@ public:
             long long curr = 1LL*nums[i];
             while(!st1.empty() && st1.back() == curr){
                 st1.pop_back();
-                curr*=2LL;
+                curr=curr*2LL;
             }
             st1.push_back(curr);
         }
