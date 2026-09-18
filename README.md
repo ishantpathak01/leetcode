@@ -442,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/ishantpathak01/leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ishantpathak01/leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1512-number-of-good-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1512-number-of-good-pairs) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishantpathak01/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ishantpathak01/leetcode/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1748-sum-of-unique-elements](https://github.com/ishantpathak01/leetcode/tree/master/1748-sum-of-unique-elements) |
@@ -613,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/ishantpathak01/leetcode/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/ishantpathak01/leetcode/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/ishantpathak01/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishantpathak01/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishantpathak01/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ishantpathak01/leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -730,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ishantpathak01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1374-generate-a-string-with-characters-that-have-odd-counts](https://github.com/ishantpathak01/leetcode/tree/main/1374-generate-a-string-with-characters-that-have-odd-counts/) | Easy |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishantpathak01/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishantpathak01/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1544-make-the-string-great](https://github.com/ishantpathak01/leetcode/tree/master/1544-make-the-string-great) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/ishantpathak01/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/ishantpathak01/leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -947,6 +950,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishantpathak01/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1323-maximum-69-number](https://github.com/ishantpathak01/leetcode/tree/master/1323-maximum-69-number) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ishantpathak01/leetcode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/ishantpathak01/leetcode/tree/main/1561-maximum-number-of-coins-you-can-get/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/ishantpathak01/leetcode/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1833-maximum-ice-cream-bars](https://github.com/ishantpathak01/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
