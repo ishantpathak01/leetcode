@@ -782,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/ishantpathak01/leetcode/tree/master/3379-score-of-a-string) |
 | [3408-count-the-number-of-special-characters-i](https://github.com/ishantpathak01/leetcode/tree/master/3408-count-the-number-of-special-characters-i) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ishantpathak01/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3498-reverse-degree-of-a-string](https://github.com/ishantpathak01/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/ishantpathak01/leetcode/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/ishantpathak01/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3709-find-special-substring-of-length-k](https://github.com/ishantpathak01/leetcode/tree/master/3709-find-special-substring-of-length-k) |
@@ -1053,6 +1054,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3336-water-bottles-ii](https://github.com/ishantpathak01/leetcode/tree/master/3336-water-bottles-ii) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ishantpathak01/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/ishantpathak01/leetcode/tree/master/3379-transformed-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/ishantpathak01/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/ishantpathak01/leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ishantpathak01/leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3834-merge-adjacent-equal-elements](https://github.com/ishantpathak01/leetcode/tree/master/3834-merge-adjacent-equal-elements) |
