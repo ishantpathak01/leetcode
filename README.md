@@ -392,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/ishantpathak01/leetcode/tree/main/3702-longest-subsequence-with-non-zero-bitwise-xor/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ishantpathak01/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishantpathak01/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/ishantpathak01/leetcode/tree/main/3737-count-subarrays-with-majority-element-i/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/ishantpathak01/leetcode/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -663,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/ishantpathak01/leetcode/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ishantpathak01/leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishantpathak01/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishantpathak01/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/ishantpathak01/leetcode/tree/master/3731-find-missing-elements) |
 | [3778-transform-array-by-parity](https://github.com/ishantpathak01/leetcode/tree/master/3778-transform-array-by-parity) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/ishantpathak01/leetcode/tree/main/3867-sum-of-gcd-of-formed-pairs/) | Medium |
@@ -1009,6 +1011,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3627-maximum-median-sum-of-subsequences-of-size-3](https://github.com/ishantpathak01/leetcode/tree/main/3627-maximum-median-sum-of-subsequences-of-size-3/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ishantpathak01/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/ishantpathak01/leetcode/tree/master/3689-maximum-total-subarray-value-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ishantpathak01/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3927-minimize-array-sum-using-divisible-replacements](https://github.com/ishantpathak01/leetcode/tree/master/3927-minimize-array-sum-using-divisible-replacements) |
 | [3954-maximum-balanced-shipments](https://github.com/ishantpathak01/leetcode/tree/master/3954-maximum-balanced-shipments) |
 | [3974-maximum-total-sum-of-k-selected-elements](https://github.com/ishantpathak01/leetcode/tree/main/3974-maximum-total-sum-of-k-selected-elements/) | Medium |
