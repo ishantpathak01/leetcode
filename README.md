@@ -1024,6 +1024,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/ishantpathak01/leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ishantpathak01/leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ishantpathak01/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
@@ -1186,6 +1187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ishantpathak01/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ishantpathak01/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishantpathak01/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1196,6 +1198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ishantpathak01/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ishantpathak01/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishantpathak01/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -1208,6 +1211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0101-symmetric-tree](https://github.com/ishantpathak01/leetcode/tree/master/0101-symmetric-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ishantpathak01/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ishantpathak01/leetcode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [2236-root-equals-sum-of-children](https://github.com/ishantpathak01/leetcode/tree/main/2236-root-equals-sum-of-children/) | Easy |
@@ -1219,6 +1223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0086-partition-list](https://github.com/ishantpathak01/leetcode/tree/main/0086-partition-list/) | Medium |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0114-flatten-binary-tree-to-linked-list/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/ishantpathak01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ishantpathak01/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
