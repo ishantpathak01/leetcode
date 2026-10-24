@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2310-sum-of-numbers-with-units-digit-k](https://github.com/ishantpathak01/leetcode/tree/main/2310-sum-of-numbers-with-units-digit-k/) | Medium |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/ishantpathak01/leetcode/tree/main/2344-minimum-deletions-to-make-array-divisible/) | Hard |
 | [2396-strictly-palindromic-number](https://github.com/ishantpathak01/leetcode/tree/master/2396-strictly-palindromic-number) |
+| [2409-count-days-spent-together](https://github.com/ishantpathak01/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/ishantpathak01/leetcode/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/ishantpathak01/leetcode/tree/master/2443-sum-of-number-and-its-reverse) |
@@ -789,6 +790,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/ishantpathak01/leetcode/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2405-optimal-partition-of-string](https://github.com/ishantpathak01/leetcode/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/ishantpathak01/leetcode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/ishantpathak01/leetcode/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2470-removing-stars-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2470-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/ishantpathak01/leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
