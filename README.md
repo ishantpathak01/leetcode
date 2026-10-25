@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/ishantpathak01/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishantpathak01/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/ishantpathak01/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1002-maximum-width-ramp](https://github.com/ishantpathak01/leetcode/tree/master/1002-maximum-width-ramp) |
 | [1007-minimum-domino-rotations-for-equal-row](https://github.com/ishantpathak01/leetcode/tree/master/1007-minimum-domino-rotations-for-equal-row) |
 | [1018-largest-perimeter-triangle](https://github.com/ishantpathak01/leetcode/tree/master/1018-largest-perimeter-triangle) |
@@ -448,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ishantpathak01/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/ishantpathak01/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1015-smallest-integer-divisible-by-k](https://github.com/ishantpathak01/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -824,6 +826,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ishantpathak01/leetcode/tree/main/0169-majority-element/) | Easy |
 | [0594-longest-harmonious-subsequence](https://github.com/ishantpathak01/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0992-subarrays-with-k-different-integers](https://github.com/ishantpathak01/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/ishantpathak01/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1297-maximum-number-of-balloons](https://github.com/ishantpathak01/leetcode/tree/master/1297-maximum-number-of-balloons) |
@@ -912,6 +915,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0930-binary-subarrays-with-sum](https://github.com/ishantpathak01/leetcode/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0992-subarrays-with-k-different-integers](https://github.com/ishantpathak01/leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ishantpathak01/leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/ishantpathak01/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ishantpathak01/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
