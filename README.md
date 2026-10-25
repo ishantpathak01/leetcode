@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/ishantpathak01/leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/ishantpathak01/leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1287-distance-between-bus-stops](https://github.com/ishantpathak01/leetcode/tree/master/1287-distance-between-bus-stops) |
 | [1288-remove-covered-intervals](https://github.com/ishantpathak01/leetcode/tree/main/1288-remove-covered-intervals/) | Medium |
@@ -1137,6 +1138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishantpathak01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/ishantpathak01/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
+| [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ishantpathak01/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/ishantpathak01/leetcode/tree/master/1672-richest-customer-wealth) |
 | [2545-sort-the-students-by-their-kth-score](https://github.com/ishantpathak01/leetcode/tree/master/2545-sort-the-students-by-their-kth-score) |
@@ -1206,10 +1208,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/ishantpathak01/leetcode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/ishantpathak01/leetcode/tree/main/0589-n-ary-tree-preorder-traversal/) | Easy |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/ishantpathak01/leetcode/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0101-symmetric-tree](https://github.com/ishantpathak01/leetcode/tree/master/0101-symmetric-tree) |
+| [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -1247,6 +1251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/ishantpathak01/leetcode/tree/main/3532-path-existence-queries-in-a-graph-i/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
