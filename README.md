@@ -542,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/ishantpathak01/leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ishantpathak01/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/ishantpathak01/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0443-string-compression](https://github.com/ishantpathak01/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ishantpathak01/leetcode/tree/master/0567-permutation-in-string) |
 | [0633-sum-of-square-numbers](https://github.com/ishantpathak01/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/ishantpathak01/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
@@ -738,6 +739,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/ishantpathak01/leetcode/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/ishantpathak01/leetcode/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ishantpathak01/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/ishantpathak01/leetcode/tree/main/0443-string-compression/) | Medium |
 | [0520-detect-capital](https://github.com/ishantpathak01/leetcode/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/ishantpathak01/leetcode/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0551-student-attendance-record-i](https://github.com/ishantpathak01/leetcode/tree/master/0551-student-attendance-record-i) |
