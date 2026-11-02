@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/ishantpathak01/leetcode/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ishantpathak01/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1276-number-of-burgers-with-no-waste-of-ingredients](https://github.com/ishantpathak01/leetcode/tree/master/1276-number-of-burgers-with-no-waste-of-ingredients) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishantpathak01/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ishantpathak01/leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1303-minimum-moves-to-reach-target-score](https://github.com/ishantpathak01/leetcode/tree/master/1303-minimum-moves-to-reach-target-score) |
 | [1323-maximum-69-number](https://github.com/ishantpathak01/leetcode/tree/master/1323-maximum-69-number) |
@@ -1245,6 +1246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/ishantpathak01/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishantpathak01/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
 | [1669-merge-in-between-linked-lists](https://github.com/ishantpathak01/leetcode/tree/main/1669-merge-in-between-linked-lists/) | Medium |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ishantpathak01/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
