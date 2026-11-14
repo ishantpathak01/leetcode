@@ -385,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ishantpathak01/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3331-minimum-operations-to-exceed-threshold-value-i](https://github.com/ishantpathak01/leetcode/tree/master/3331-minimum-operations-to-exceed-threshold-value-i) |
 | [3347-distribute-elements-into-two-arrays-i](https://github.com/ishantpathak01/leetcode/tree/master/3347-distribute-elements-into-two-arrays-i) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishantpathak01/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3379-transformed-array](https://github.com/ishantpathak01/leetcode/tree/master/3379-transformed-array) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/ishantpathak01/leetcode/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -945,6 +946,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ishantpathak01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3206-alternating-groups-i](https://github.com/ishantpathak01/leetcode/tree/master/3206-alternating-groups-i) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/ishantpathak01/leetcode/tree/main/3258-count-substrings-that-satisfy-k-constraint-i/) | Easy |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishantpathak01/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -983,6 +985,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/ishantpathak01/leetcode/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/ishantpathak01/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [3147-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/ishantpathak01/leetcode/tree/master/3147-taking-maximum-energy-from-the-mystic-dungeon) |
+| [3364-minimum-positive-sum-subarray](https://github.com/ishantpathak01/leetcode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
 | [3427-sum-of-variable-length-subarrays](https://github.com/ishantpathak01/leetcode/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ishantpathak01/leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3719-longest-balanced-subarray-i](https://github.com/ishantpathak01/leetcode/tree/master/3719-longest-balanced-subarray-i) |
