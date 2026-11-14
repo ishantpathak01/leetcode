@@ -1264,6 +1264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/ishantpathak01/leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/ishantpathak01/leetcode/tree/master/0148-sort-list) |
 | [0328-odd-even-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0328-odd-even-linked-list/) | Medium |
+| [0707-design-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0707-design-linked-list/) | Medium |
 | [0725-split-linked-list-in-parts](https://github.com/ishantpathak01/leetcode/tree/main/0725-split-linked-list-in-parts/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/ishantpathak01/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/ishantpathak01/leetcode/tree/main/1290-convert-binary-number-in-a-linked-list-to-integer/) | Easy |
@@ -1347,4 +1348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ishantpathak01/leetcode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0707-design-linked-list](https://github.com/ishantpathak01/leetcode/tree/main/0707-design-linked-list/) | Medium |
 <!---LeetCode Topics End-->
