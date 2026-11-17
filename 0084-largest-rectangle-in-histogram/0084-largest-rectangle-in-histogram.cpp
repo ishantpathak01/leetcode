@@ -1,4 +1,3 @@
-
 class Solution {
 private:
     vector<int> nextsmall(vector<int>& arr, int n) {
