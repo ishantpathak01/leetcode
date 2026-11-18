@@ -41,7 +41,7 @@ public:
     int maximalSquare(vector<vector<char>>& matrix) {
         int n=matrix.size();
         int m=matrix[0].size();
-        // if(n==0) return 0;
+        if(n==0) return 0;
         vector<int>h(m,0);
         int ans=0;
         for(int i=0;i<n;i++){
