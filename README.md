@@ -821,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/ishantpathak01/leetcode/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/ishantpathak01/leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2833-furthest-point-from-origin](https://github.com/ishantpathak01/leetcode/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ishantpathak01/leetcode/tree/main/2914-minimum-number-of-changes-to-make-binary-string-beautiful/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/ishantpathak01/leetcode/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ishantpathak01/leetcode/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/ishantpathak01/leetcode/tree/main/3168-minimum-number-of-chairs-in-a-waiting-room/) | Easy |
