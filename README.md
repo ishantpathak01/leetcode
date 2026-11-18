@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/ishantpathak01/leetcode/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ishantpathak01/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/ishantpathak01/leetcode/tree/master/0217-contains-duplicate) |
+| [0221-maximal-square](https://github.com/ishantpathak01/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/ishantpathak01/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishantpathak01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/ishantpathak01/leetcode/tree/main/0260-single-number-iii/) | Medium |
@@ -917,6 +918,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ishantpathak01/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0152-maximum-product-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/ishantpathak01/leetcode/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/ishantpathak01/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0647-palindromic-substrings](https://github.com/ishantpathak01/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/ishantpathak01/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/ishantpathak01/leetcode/tree/master/0718-maximum-length-of-repeated-subarray) |
@@ -1175,6 +1177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/ishantpathak01/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/ishantpathak01/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/ishantpathak01/leetcode/tree/main/0085-maximal-rectangle/) | Hard |
+| [0221-maximal-square](https://github.com/ishantpathak01/leetcode/tree/main/0221-maximal-square/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ishantpathak01/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/ishantpathak01/leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/ishantpathak01/leetcode/tree/main/1254-number-of-closed-islands/) | Medium |
